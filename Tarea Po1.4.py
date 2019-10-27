@@ -1,3 +1,6 @@
+# 90/100
+# Qué ocurre si se digita dia/mes invalido? -10
+
 dia= float(input("Día de nacimiento:"))
 mes= float(input("Mes de nacimiento:"))
 
